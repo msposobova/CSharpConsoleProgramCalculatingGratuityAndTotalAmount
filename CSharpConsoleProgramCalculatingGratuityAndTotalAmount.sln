@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpConsoleProgramCalculatingGratuityAndTotalAmount", "LabReport_MarynaSposabava\CSharpConsoleProgramCalculatingGratuityAndTotalAmount.csproj", "{9BB187C0-990D-48EF-87F6-D5BA4F8499A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BB187C0-990D-48EF-87F6-D5BA4F8499A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB187C0-990D-48EF-87F6-D5BA4F8499A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB187C0-990D-48EF-87F6-D5BA4F8499A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB187C0-990D-48EF-87F6-D5BA4F8499A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {004CD1E2-A592-44F1-88B6-9254C3041762}
+	EndGlobalSection
+EndGlobal
